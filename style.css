@@ -1,0 +1,13 @@
+form {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  background-color: #999;
+}
+form input {
+  outline: none;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
